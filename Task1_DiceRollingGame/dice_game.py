@@ -23,8 +23,11 @@ def main():
 
         choice = input("\nRoll again? (y/n): ").strip().lower()
 
-        if choice != "y":
+        if choice in ['n', 'no']:
             print("\nThank you for playing!")
+            break
+        elif choice != 'y':
+            print("Invalid input, but exiting anyway! Goodbye!")
             break
 
 
