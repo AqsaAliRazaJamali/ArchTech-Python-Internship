@@ -87,8 +87,14 @@ ArchTech-Python-Internship/
 
 ## 👩‍💻 Author
 
-**Aqsa Jamali**
+<div align="center">
 
-Python Development Intern
+### **Aqsa Jamali**
 
-GitHub: https://github.com/AqsaAliRazaJamali
+**Python Development Intern**
+
+Passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-AqsaAliRazaJamali-181717?style=for-the-badge&logo=github)](https://github.com/AqsaAliRazaJamali)
+
+</div>
