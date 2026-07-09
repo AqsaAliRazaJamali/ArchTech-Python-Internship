@@ -59,13 +59,13 @@ This project was developed to strengthen understanding of:
 ```text
 Task2_ToDoListApp/
 │
-├── todo_list.py
+├── todo_app.py
 └── README.md
 ```
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
